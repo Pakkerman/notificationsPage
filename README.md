@@ -1,13 +1,13 @@
 # Frontend Mentor - Notification Page
 
 This Project is a Challenge from Frontend Mentor
-[News Homepage](https://www.frontendmentor.io/challenges/notifications-page-DqK5QAmKbC)
+[Notifications Page](https://www.frontendmentor.io/challenges/notifications-page-DqK5QAmKbC)
 
 ## Usage
 
 ### Open in Browser
 
-- [GitHub Pages - Notifications Page](https://pakkerman.github.io/news-hompage/)
+- [GitHub Pages - Notifications Page](https://pakkerman.github.io/notifications-page/)
 
 ### Open in VSCode
 
