@@ -7,7 +7,7 @@ This Project is a Challenge from Frontend Mentor
 
 ### Open in Browser
 
-- [GitHub Pages - Notifications Page](https://pakkerman.github.io/notifications-page/)
+- [GitHub Pages - Notifications Page](https://pakkerman.github.io/notificationsPage/)
 
 ### Open in VSCode
 
